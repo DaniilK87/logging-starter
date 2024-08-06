@@ -1,0 +1,8 @@
+META-INF/spring-configuration-metadata.json
+org/example/aspect/LoggingMethodNoParam.class
+org/example/App.class
+org/example/aspect/LoggingProperties.class
+org/example/aspect/LoggingAspectWithParam.class
+org/example/aspect/LoggingMethodWithParam.class
+org/example/aspect/LoggingAspectNoParam.class
+org/example/aspect/LoggingAutoConfiguration.class

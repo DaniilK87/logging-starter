@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "application.logging",
+      "type": "org.example.aspect.LoggingProperties",
+      "sourceType": "org.example.aspect.LoggingProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "application.logging.level",
+      "type": "org.slf4j.event.Level",
+      "sourceType": "org.example.aspect.LoggingProperties"
+    },
+    {
+      "name": "application.logging.print-args",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.example.aspect.LoggingProperties",
+      "defaultValue": false
+    }
+  ],
+  "hints": []
+}
